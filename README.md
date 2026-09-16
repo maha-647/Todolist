@@ -134,8 +134,8 @@ footer{
     </ul>
 
     <footer>
-        Mahalaskkshmi M 
-        212224040184
+        Mahalaksshmi Mridula
+        212224220056
     </footer>
 </div>
 
